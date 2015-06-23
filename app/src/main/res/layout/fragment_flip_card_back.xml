@@ -1,0 +1,38 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="vertical"
+    android:background="#a6c"
+    android:padding="16dp"
+    android:gravity="bottom">
+
+    <TextView
+        android:id="@+id/back_text"
+        android:textSize="20dp"
+        android:textStyle="bold"
+        android:textColor="#fff"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tap here on the text to flip the card!"/>
+
+    <TextView
+        android:textAllCaps="true"
+        android:textColor="#80ffffff"
+        android:textStyle="bold"
+        android:lineSpacingMultiplier="1.2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="You can also press back to flip the card!"
+        style="?android:textAppearanceSmall"/>
+
+    <TextView
+        android:textAllCaps="true"
+        android:textColor="#80ffffff"
+        android:textStyle="bold"
+        android:lineSpacingMultiplier="1.2"
+        android:layout_width="match_parent"
+        android:layout_height="wrap_content"
+        android:text="Tap on the smiley face to flip back here!"
+        style="?android:textAppearanceSmall"/>
+
+</LinearLayout>

@@ -1,0 +1,34 @@
+<resources>
+    <string name="app_name">AD340</string>
+    <string name="tutorial1">Tutorial1</string>
+    <string name="tutorial1a">Tutorial1a</string>
+    <string name="tutorial4a">Tutorial4a</string>
+    <string name="tutorial4b">Tutorial4b</string>
+    <string name="tutorial5a">Tutorial5a</string>
+    <string name="tutorial6a">Tutorial6a</string>
+    <string name="tutorial6b">Tutorial6b</string>
+    <string name="tutorial7a">Tutorial7a</string>
+    <string name="tutorial7b">Map</string>
+    <string name="opengles">Open GLES</string>
+
+    <string name="save_string_key">save_string_key</string>
+    <string name="type_here">Type here!</string>
+    <string name="double_clicked">Double clicked!</string>
+    <string name="sound">Play Sound</string>
+    <string name="go">Go</string>
+    <string name="forward">Forward</string>
+
+    <string name="title_activity_tutorial1">Tutorial1</string>
+    <string name="title_activity_tutorial1a">Tutorial1a</string>
+    <string name="title_activity_tutorial4a">Tutorial4a</string>
+    <string name="title_activity_tutorial4b">Tutorial4b</string>
+    <string name="title_activity_tutorial5a">Tutorial5a</string>
+    <string name="title_activity_tutorial6a">Tutorial6a</string>
+    <string name="title_activity_tutorial6b">Tutorial6b</string>
+    <string name="title_activity_tutorial7a">Tutorial7a</string>
+    <string name="title_activity_tutorial7b">Tutorial7b</string>
+    <string name="title_activity_flip_card">FlipCardActivity</string>
+    <string name="title_activity_maps">Map</string>
+    <string name="title_activity_open_gles20">OpenGLES20Activity</string>
+    <string name="action_settings">Settings</string>
+</resources>

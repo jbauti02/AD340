@@ -1,0 +1,75 @@
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    android:orientation="vertical"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:paddingLeft="@dimen/activity_horizontal_margin"
+    android:paddingRight="@dimen/activity_horizontal_margin"
+    android:paddingTop="@dimen/activity_vertical_margin"
+    android:paddingBottom="@dimen/activity_vertical_margin"
+    tools:context=".MainActivity">
+
+    <Button
+        android:id="@+id/button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial1"
+        android:onClick="tutorial1_click"/>
+
+    <Button
+        android:id="@+id/tutorial4a_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial4a"
+        android:onClick="tutorial4a_click"/>
+
+    <Button
+        android:id="@+id/tutorial4b_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial4b"
+        android:onClick="tutorial4b_click"/>
+
+    <Button
+        android:id="@+id/tutorial5a_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial5a"
+        android:onClick="tutorial5a_click"/>
+
+    <Button
+        android:id="@+id/tutorial6a_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial6a"
+        android:onClick="tutorial6a_click"/>
+
+    <Button
+        android:id="@+id/tutorial6b_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial6b"
+        android:onClick="tutorial6b_click"/>
+
+    <Button
+        android:id="@+id/tutorial7a_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial7a"
+        android:onClick="tutorial7a_click"/>
+
+    <Button
+        android:id="@+id/tutorial7b_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/tutorial7b"
+        android:onClick="tutorial7b_click"/>
+
+    <Button
+        android:id="@+id/opengles_button"
+        android:layout_width="wrap_content"
+        android:layout_height="wrap_content"
+        android:text="@string/opengles"
+        android:onClick="opengles_click"/>
+
+</LinearLayout>
